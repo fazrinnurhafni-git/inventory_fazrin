@@ -1,8 +1,4 @@
 <?php
-// =====================================================
-// kategori/index.php — menampilkan seluruh kategori
-// beserta jumlah barang di setiap kategori
-// =====================================================
 require __DIR__ . '/../config/app.php';
 require __DIR__ . '/../config/database.php';
 require __DIR__ . '/../includes/functions.php';

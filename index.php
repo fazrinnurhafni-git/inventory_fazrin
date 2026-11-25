@@ -1,7 +1,4 @@
 <?php
-// =====================================================
-// index.php — Dashboard (ringkasan data dari database)
-// =====================================================
 require __DIR__ . '/config/app.php';
 require __DIR__ . '/config/database.php';
 require __DIR__ . '/includes/functions.php';
